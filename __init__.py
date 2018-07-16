@@ -1,5 +1,5 @@
-#!/usr/bin/env python
-# -*- coding:utf-8 -*-
-# author: chenhe<hee0624@163.com>
-# time: 2017-11-30
-# version: 1.0
+#!/usr/bin/env python3
+# coding: utf-8
+# File: __init__.py.py
+# Author: lhy<lhy_in_blcu@126.com,https://huangyong.github.io>
+# Date: 18-7-15
