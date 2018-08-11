@@ -7,7 +7,7 @@ Event monitor based on online news corpus  built by Baidu search enginee using e
 执行方式：进入EventMonitor目录下，进入cmd窗口，执行"scrapy crawl eventspider -a keyword=话题关键词"，或者直接python crawl.py, 等待数秒后，既可以在news文件夹中存储相应的新闻文件,可以得到相应事件的话题集,话题历史文本  
  ![image](https://github.com/liuhuanyong/EventMonitor/blob/master/image/topic.png)
  ![image](https://github.com/liuhuanyong/EventMonitor/blob/master/image/news.png)
- ![image](https://github.com/liuhuanyong/EventMonitor/blob/master/image/.png)    
+ ![image](https://github.com/liuhuanyong/EventMonitor/blob/master/image/content.png)    
 # 2)关于热点事件的情感分析
 对于1)得到的历史语料，可以使用基于依存语义和情感词库的篇章级情感分析算法进行情感分析  
 这部分参考我的篇章级情感分析项目DocSentimentAnalysis：https://github.com/liuhuanyong/DocSentimentAnalysis  
