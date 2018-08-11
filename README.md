@@ -23,7 +23,7 @@ Event monitor based on online news corpus  built by Baidu search enginee using e
 这部分参考我的文本重要性分析项目ImportantEventExtractor：https://github.com/liuhuanyong/ImportantEventExtractor
 # 6)关于热点事件新闻文本的图谱化展示
 对于得到每个历史新闻事件文本，可以使用关键词，实体识别等关系抽取方法对文本进行可视化展示  
-这部分内容，参考我的文本内容可视化项目项目TopicGrapher：https://github.com/liuhuanyong/TextGrapher
+这部分内容，参考我的文本内容可视化项目项目TextGrapher：https://github.com/liuhuanyong/TextGrapher
 
 # 结束语
 关于事件监测的方法有很多，也有很多问题需要去解决，以上提出的方法只是一个尝试，就算法本身还有许多需要改进的地方
