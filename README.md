@@ -9,15 +9,21 @@ Event monitor based on online news corpus  built by Baidu search enginee using e
  ![image](https://github.com/liuhuanyong/EventMonitor/blob/master/image/news.png)
      
 # 2)关于热点事件的情感分析
-对于1)得到的历史语料，可以使用基于依存语义和情感词库的篇章级情感分析算法进行情感分析，这部分参考我的篇章级情感分析项目DocSentimentAnalysis：https://github.com/liuhuanyong/DocSentimentAnalysis
+对于1)得到的历史语料，可以使用基于依存语义和情感词库的篇章级情感分析算法进行情感分析  
+这部分参考我的篇章级情感分析项目DocSentimentAnalysis：https://github.com/liuhuanyong/DocSentimentAnalysis
 # 3)关于热点事件的搜索趋势
-对于1)得到的历史语料，可以使用百度指数，新浪微博指数进行采集，这部分参考我的百度指数采集项目BaiduIndexSpyder：https://github.com/liuhuanyong/BaiduIndexSpyder，以及微博指数采集项目WeiboIndexSpyder：https://github.com/liuhuanyong/WeiboIndexSpyder
+对于1)得到的历史语料，可以使用百度指数，新浪微博指数进行采集  
+这部分参考我的百度指数采集项目BaiduIndexSpyder：https://github.com/liuhuanyong/BaiduIndexSpyder
+微博指数采集项目WeiboIndexSpyder：https://github.com/liuhuanyong/WeiboIndexSpyder
 # 4)关于热点事件的话题分析
-对于1)得到的历史语料，可以使用LDA,Kmeans模型进行话题分析，这部分参考我的话题分析项目Topicluster：https://github.com/liuhuanyong/TopicCluster
+对于1)得到的历史语料，可以使用LDA,Kmeans模型进行话题分析  
+这部分参考我的话题分析项目Topicluster：https://github.com/liuhuanyong/TopicCluster
 # 5)关于热点事件的代表性文本分析
-对于1)得到的历史语料，可以使用跨篇章的textrank算法，对文本集的重要性进行计算和排序，这部分参考我的文本重要性分析项目ImportantEventExtractor：https://github.com/liuhuanyong/ImportantEventExtractor
+对于1)得到的历史语料，可以使用跨篇章的textrank算法，对文本集的重要性进行计算和排序  
+这部分参考我的文本重要性分析项目ImportantEventExtractor：https://github.com/liuhuanyong/ImportantEventExtractor
 # 6)关于热点事件新闻文本的图谱化展示
-对于得到每个历史新闻事件文本，可以使用关键词，实体识别等关系抽取方法对文本进行可视化展示，这部分内容，参考我的文本内容可视化项目项目TopicGrapher：https://github.com/liuhuanyong/TextGrapher
+对于得到每个历史新闻事件文本，可以使用关键词，实体识别等关系抽取方法对文本进行可视化展示  
+这部分内容，参考我的文本内容可视化项目项目TopicGrapher：https://github.com/liuhuanyong/TextGrapher
 
 # 结束语
 关于事件监测的方法有很多，也有很多问题需要去解决，以上提出的方法只是一个尝试，就算法本身还有许多需要改进的地方
