@@ -26,4 +26,6 @@ Event monitor based on online news corpus  built by Baidu search enginee using e
 这部分内容，参考我的文本内容可视化项目项目TextGrapher：https://github.com/liuhuanyong/TextGrapher
 
 # 结束语
-关于事件监测的方法有很多，也有很多问题需要去解决，以上提出的方法只是一个尝试，就算法本身还有许多需要改进的地方
+关于事件监测的方法有很多，也有很多问题需要去解决，以上提出的方法只是一个尝试，就算法本身还有许多需要改进的地方  
+
+If any question about the project or me ,see https://liuhuanyong.github.io/
