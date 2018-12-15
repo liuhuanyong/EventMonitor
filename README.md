@@ -28,4 +28,9 @@ Event monitor based on online news corpus  built by Baidu search enginee using e
 # 结束语
 关于事件监测的方法有很多，也有很多问题需要去解决，以上提出的方法只是一个尝试，就算法本身还有许多需要改进的地方  
 
-If any question about the project or me ,see https://liuhuanyong.github.io/
+# contact 
+如有自然语言处理、知识图谱、事理图谱、社会计算、语言资源建设等问题或合作，请联系我:  
+邮箱:lhy_in_blcu@126.com  
+csdn:https://blog.csdn.net/lhy2014  
+我的自然语言处理项目: https://liuhuanyong.github.io/  
+刘焕勇，中国科学院软件研究所  
